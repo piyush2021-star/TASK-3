@@ -2,7 +2,7 @@
 
 📝 Project Description
 
-This project represents TASK-2 in a 9-day intermediate-level web development plan aimed at strengthening HTML, CSS, and JavaScript skills. The focus is on creating responsive layouts, interactive components, and integrating real-time data to build a dynamic user experience.
+This project represents TASK-3 in a 9-day intermediate-level web development plan aimed at strengthening HTML, CSS, and JavaScript skills. The focus is on creating responsive layouts, interactive components, and integrating real-time data to build a dynamic user experience.
 
 🔧 Features Implemented
 
